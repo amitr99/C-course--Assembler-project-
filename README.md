@@ -2,6 +2,7 @@
 # Assembler
 A C program that imitates an assembler. 
 The final assignment (#14) of the C course (20465) at The Open University.  
+It received a grade of 90.
 
 This project is based on the **_two-pass assembler_** model.  
 **Note:** the computer model for this project and the given assembly language are **imaginary**.
